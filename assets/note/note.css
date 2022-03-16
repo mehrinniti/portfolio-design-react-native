@@ -1,0 +1,14 @@
+.dsfs{
+    /* color: rgb(218, 218, 218); */
+    align-items: center;
+    justify-content: flex-start;
+    background: url(./../../src/images/portfolio-bg.png);
+    border: 3px solid rgba(148, 148, 148, 0.5);
+    font-weight: 500;
+    background-color: rgba(136, 136, 136, 0);
+    text-decoration: none;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    column-gap: 0;
+
+}
